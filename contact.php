@@ -52,7 +52,7 @@
 
 	<div class="container">
 		<h1>Contact Form</h1>
-		<form method="post" action="sendmail.php">
+		<form method="post" >
 			<fieldset>
 				<label>Name</label>
 				<input type="text" name="name" placeholder="Enter Name">
